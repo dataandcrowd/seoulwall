@@ -12,7 +12,7 @@
 
 ------------------
 
-# Hanyang City Wall 
+# Hanyang City Wall GIS
 
 Hi and welcome to my repository of Hanyang city wall GIS!
 
